@@ -92,7 +92,7 @@ GEM
     childprocess (3.0.0)
     codecov (0.5.1)
       simplecov (>= 0.15, < 0.22)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.10)
     connection_pool (2.2.3)
     crass (1.0.6)
     dalli (2.7.11)
